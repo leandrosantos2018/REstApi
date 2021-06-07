@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>REstApi</name>
+    </assembly>
+    <members>
+        <member name="M:REstApi.Controllers.UsuarioController.Logar(REstApi.Models.Usuario.LoginViewModelInput)">
+            <sumary>
+            teste
+            </sumary>
+            <param name="loginViewModelInput"></param>
+            <returns>Retorna status ok, dados do usuario e o token em caso</returns>
+        </member>
+    </members>
+</doc>
